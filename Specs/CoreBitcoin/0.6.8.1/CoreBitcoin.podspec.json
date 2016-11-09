@@ -31,7 +31,6 @@
   },
   "dependencies": {
     "OpenSSL-Universal": [
-      "1.0.1.16"
     ],
     "ISO8601DateFormatter": [
 
